@@ -9,9 +9,9 @@ function Header() {
             <div className="dv_imagem_do_header">
                 <img src="farmarcia-logo-pq.PNG.png" alt="Logo Farmarcia"/>
 
-                <a href="">Início</a>
-                <a href="">Sobre Nós</a>
-                <a href="">Blog</a>
+                <button className="header_botao_inicio">Início</button>
+                <button className="header_botao_sobre_nos">Sobre Nós</button>
+                <button className="header_botao_blog">Blog</button>
 
                 <div className="dv_botoes_da_nav">
                     <button className="botao_cadastro">CADASTRAR</button>
