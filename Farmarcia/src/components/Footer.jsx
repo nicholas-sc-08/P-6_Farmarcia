@@ -2,7 +2,7 @@
 function Footer() {
   return (
     <div>
-      
+
     <footer>
 
         <div className="alinhamento_footer">
@@ -44,7 +44,7 @@ function Footer() {
 
                     <div className="alinhamento_botoes_social_media">
 
-                        <button><img src="social_media_instagram.png" alt="Inatgram.png"/></button>
+                        <button><img src="social_media_instagram (3).png" alt="Inatgram.png"/></button>
                         <button><img src="social_media_facebook.png" alt="Facebook.png"/></button>
                         <button><img src="social_media_whatsapp.png" alt="Whatsapp.png"/></button>
 

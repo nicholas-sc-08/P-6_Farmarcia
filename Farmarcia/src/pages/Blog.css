@@ -1,0 +1,16 @@
+
+.blog_page{
+
+    width: 100vw;
+    height: 100vh;
+}
+
+.card_um{
+
+    width: 5%;
+    height: 10vh;
+
+    background-color: var();
+
+    position: absolute;
+}

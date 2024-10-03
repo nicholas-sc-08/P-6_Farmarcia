@@ -5,8 +5,6 @@ function Body() {
   return (
     <div>
       
-    <Header/>
-
     <div className="carrossel">
 
         <div className="conteudo_carrossel">
@@ -45,8 +43,6 @@ function Body() {
         </div>
 
     </div>
-
-    <Footer/>
 
     </div>
   )
